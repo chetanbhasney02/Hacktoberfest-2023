@@ -1,14 +1,14 @@
-def palindrome(string):
-    rev_string = string[::-1]
-    return rev_string
+def is_palindrome(s):
+    # Remove spaces and convert the string to lowercase
+    s = s.replace(" ", "").lower()
+    
+    # Compare the original string with its reverse
+    return s == s[::-1]
 
-while True:
-    string = input("Enter a string or number to check palindrome:")
-    rev = palindrome(string)
-    if(string == rev):
-        print("It is palindrome")
-    else:
-        print("It is not palindrome")
-    check = input("Do you want to check again? yes/no:").lower();
-    if(check != 'yes'):
-        break
+# Input string to check for palindrome
+input_string = input("Enter a string: ")
+
+if is_palindrome(input_string):
+    print("It's a palindrome!")
+else:
+    print("It's not a palindrome.")
