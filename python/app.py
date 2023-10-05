@@ -9,7 +9,7 @@ def index():
 
 @app.route('/weather', methods=['POST'])
 def weather():
-    api_key = '82407ea264383ca2b0552d65a2f0e630'
+    api_key = 'API-KEY'
     city = request.form['city']
     url = f'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}'
     response = requests.get(url)
