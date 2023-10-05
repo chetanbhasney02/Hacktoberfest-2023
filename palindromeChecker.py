@@ -1,27 +1,14 @@
-import string
+def is_palindrome(s):
+    # Remove spaces and convert the string to lowercase
+    s = s.replace(" ", "").lower()
+    
+    # Compare the original string with its reverse
+    return s == s[::-1]
 
-# remove all punctuation and spaces
+# Input string to check for palindrome
+input_string = input("Enter a string: ")
 
-
-def clean_sentence(sentence):
-    symbols = string.punctuation
-    for s in sentence:
-        if s in symbols:
-            sentence = sentence.replace(s, '')
-    sentence = sentence.replace(' ', '').lower()
-
-    return sentence
-
-
-def check_palindrome(value):
-    reverse = value[::-1]
-    if reverse == value:
-        print('Your sentence is palindrome.')
-        return
-    print("Sentence is not a palindrome.")
-
-
-if __name__ == '__main__':
-    sentence = input("Enter sentence to check if palindrome: ")
-    cleaned_sentence = clean_sentence(sentence)
-    check_palindrome(cleaned_sentence)
+if is_palindrome(input_string):
+    print("It's a palindrome!")
+else:
+    print("It's not a palindrome.")
