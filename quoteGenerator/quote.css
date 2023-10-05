@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,700&family=Ubuntu:ital,wght@0,700;1,400;1,500&display=swap');
+body{
+    background-color:wheat;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px; 
+    margin-right: 250px;  
+}
+.card{
+    background-color:skyblue;
+    color: white;
+    padding: 1em;
+    border-radius: 30px;
+    font-family: 'Ubuntu',sans-serif;
+    padding-bottom: 20px;
+    padding-right: 60px;
+    margin:auto;
+    width: 830px;
+    height: 240px;
+    overflow: hidden;
+    filter: blur(1.08);
+}
+h1{
+    color:#00512D;
+    position: relative;left: 30px;
+}
+.context{
+    font-size: 25px;
+    font-family:'Ubuntu',sans-serif;
+    position: relative;left: 50px;
+}
+button{
+    padding: 9px 25px;
+    color: #00512D;
+    border-radius: 10px;
+    display: flex;
+    place-items: space-evenly;
+    font-family:'Ubuntu',sans-serif;
+    font-size: 20px;
+    position: relative;left: 700px;
+    background-color: coral;
+    cursor: pointer;
+    border: 1px solid #00512D;
+    outline: none;
+    top: 10px;
+}
+button i{
+    position: relative;
+    top: 2px;
+    left: 2px;
+    animation: animate 2s infinite;
+}
+@keyframes animate{
+    0%{
+        left: 10px;
+    }
+    100%{
+        left: 2px;
+    }
+}
+.author{
+    position: relative;left: 500px;top: -2px;
+    font-family:'Ubuntu',sans-serif;
+    font-size: 28px;
+    color: mediumorchid;
+}
+h1::after{
+    content:":-";
+}
+@keyframes animation {
+    0%{
+        right: 1000px;
+    }
+    100%{
+        right: 0px;
+    }
+}
+.content{
+    position: relative;
+    animation: animation 2s;
+}
