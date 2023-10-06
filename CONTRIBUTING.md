@@ -1,11 +1,11 @@
 
 # Contributing to Hacktoberfest-2023
 
-Welcome to [Hacktoberfest-2023]! We appreciate your interest in contributing to our project. To ensure a smooth contribution process, please follow the guidelines below.
+Welcome to Hacktoberfest-2023! We appreciate your interest in contributing to our project. To ensure a smooth contribution process, please follow the guidelines below.
 
 ## Hacktoberfest
 
-[Hacktoberfest-2023] is excited to be a part of [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long celebration of open source software. By contributing to this project, you can earn cool swag and make valuable contributions to the open source community.
+Hacktoberfest-2023 is excited to be a part of [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long celebration of open source software. By contributing to this project, you can earn cool swag and make valuable contributions to the open source community.
 
 ## Getting Started
 
