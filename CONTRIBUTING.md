@@ -1,5 +1,5 @@
 
-# Contributing to [Hacktoberfest-2023]
+# Contributing to Hacktoberfest-2023
 
 Welcome to [Hacktoberfest-2023]! We appreciate your interest in contributing to our project. To ensure a smooth contribution process, please follow the guidelines below.
 
