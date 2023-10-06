@@ -12,3 +12,4 @@ if is_palindrome(input_string):
     print("It's a palindrome!")
 else:
     print("It's not a palindrome.")
+    
