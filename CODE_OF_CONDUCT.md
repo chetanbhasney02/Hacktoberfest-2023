@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to [Your Project Name]! We're glad you're here. As contributors and maintainers, we want to foster an inclusive and respectful community. By participating in this project, you agree to abide by this Code of Conduct. We expect all contributors to adhere to these guidelines, and we appreciate your cooperation in making our community welcoming to everyone.
+Welcome to Hacktoberfest-2023! We're glad you're here. As contributors and maintainers, we want to foster an inclusive and respectful community. By participating in this project, you agree to abide by this Code of Conduct. We expect all contributors to adhere to these guidelines, and we appreciate your cooperation in making our community welcoming to everyone.
 
 ## Our Pledge
 
@@ -38,7 +38,7 @@ Project maintainers who do not follow or enforce the Code of Conduct may face te
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html), version 2.0.
 
 For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
 
