@@ -57,11 +57,18 @@ Hacktoberfest-2023 is excited to be a part of [Hacktoberfest](https://hacktoberf
      git commit -m "Description of your changes"
 
 
-
 8. **Push your changes:**
    - Push your changes to your fork.
   
    ```bash
      git push origin my-feature
+
+
+# What Can I Contribute?:
+
+- Bug Fixes: Help us squash those bugs!
+- Features: Add new functionalities.
+- Documentation: Improve documentation for better understanding.
+- Tests: Contribute test cases to ensure code reliability.
 
 
