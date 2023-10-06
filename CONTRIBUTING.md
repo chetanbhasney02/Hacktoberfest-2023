@@ -16,7 +16,8 @@ Hacktoberfest-2023 is excited to be a part of [Hacktoberfest](https://hacktoberf
    - Clone the forked repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/chetanbhasney02/Hacktoberfest-2023.git
+   
 
 
 
