@@ -41,9 +41,11 @@ Steps for adding your name below
 <td align="center"><a href="https://github.com/Mahendra5495"><kbd><img src="https://avatars.githubusercontent.com/u/82939327?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Mahendra Kshirsagar </b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/saathwikad"><kbd><img src="https://avatars.githubusercontent.com/u/118562491?v=4" width="100px;" alt=""/></kbd><br /><sub><b>saathwikad </b></sub></a><br /> :computer:  </td>
  <td align="center"><a href="https://github.com/Mayank-Creater"><kbd><img src="https://avatars.githubusercontent.com/u/67818466?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Mayank Gupta</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/CrypticRevenger"><kbd><img src="https://avatars.githubusercontent.com/u/128175097?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Spandan Tripathy</b></sub></a><br /> :computer:  </td>
 </tr>
 
 <tr>
+<td align="center"><a href="https://github.com/sulavghimiree"><kbd><img src="https://avatars.githubusercontent.com/u/117935541?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Sulav Ghimire</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/sanjeevani-25"><kbd><img src="https://avatars.githubusercontent.com/u/96921605?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Sanjeevani Lakade</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/VPeron"><kbd><img src="https://avatars.githubusercontent.com/u/86022703?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Vini</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/Ak852745"><kbd><img src="https://avatars.githubusercontent.com/u/146869598?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Ak852745</b></sub></a><br /> :computer:  </td>
@@ -57,12 +59,14 @@ Steps for adding your name below
 <td align="center"><a href="https://github.com/riddhi-283"><kbd><img src="https://avatars.githubusercontent.com/u/124153277?v=4" width="100px;" alt=""/></kbd><br /><sub><b>riddhi-283</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/hrushi2003"><kbd><img src="https://avatars.githubusercontent.com/u/94824558?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Hrushikesh Vandanapu</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/DevTomilola-OS"><kbd><img src="https://avatars.githubusercontent.com/u/114832204?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Oluwatomilola</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/manojna191"><kbd><img src="https://avatars.githubusercontent.com/u/79504458?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Manojna Vinjamuri</b></sub></a><br /> :computer:  </td>
 </tr>
 
 <tr>
-<td align="center"><a href="https://github.com/manojna191"><kbd><img src="https://avatars.githubusercontent.com/u/79504458?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Manojna Vinjamuri</b></sub></a><br /> :computer:  </td>
-<td align="center"><a href="https://github.com/sulavghimiree"><kbd><img src="https://avatars.githubusercontent.com/u/117935541?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Sulav Ghimire</b></sub></a><br /> :computer:  </td>
-<td align="center"><a href="https://github.com/CrypticRevenger"><kbd><img src="https://avatars.githubusercontent.com/u/128175097?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Spandan Tripathy</b></sub></a><br /> :computer:  </td>
+
+<td align="center"><a href=""><kbd><img src="" width="100px;" alt=""/></kbd><br /><sub><b> </b></sub></a><br /> :computer:  </td>
+<td align="center"><a href=""><kbd><img src="" width="100px;" alt=""/></kbd><br /><sub><b> </b></sub></a><br /> :computer:  </td>
+
 </tr>
 
 </table>
