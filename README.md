@@ -34,7 +34,7 @@ Steps for adding your name below
 <!-- markdownlint-disable -->
 
 <table>
- <tr><td align="center"><a href="https://github.com/stktyagi"><kbd><img src="https://avatars.githubusercontent.com/u/142912014?v=4" width="100px;" alt=""/></kbd><br /><sub><b>stktyagi</b></sub></a><br /><a href="https://github.com/chetanbhasney02/Hacktoberfest-2023/commits?author=stktyagi" title="Code"> :computer: </a> </td>
+ <tr><td align="center"><a href="https://github.com/stktyagi"><kbd><img src="https://avatars.githubusercontent.com/u/142912014?v=4" width="100px;" alt=""/></kbd><br /><sub><b>stktyagi</b></sub></a><br /> :computer:  </td>
 </tr>
 </table>
 
