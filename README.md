@@ -24,3 +24,29 @@ Steps for adding your name below
     2. Edit `CONTRIBUTERS.md` file
     3. Add your Name also link your github profile
     4. Make pull request
+
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+<tr><td align="center"><a href="https://github.com/find-aman"><kbd><img src="https://avatars3.githubusercontent.com/find-aman?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aman Gupta</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=find-aman" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/aman-ku"><kbd><img src="https://avatars3.githubusercontent.com/aman-ku?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aman Kumar</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=aman-ku" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/SubhanshuMG"><kbd><img src="https://avatars3.githubusercontent.com/SubhanshuMG?size=400" width="100px;" alt=""/></kbd><br /><sub><b>SubhanshuMG</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=SubhanshuMG" title="Code"> :computer: </a> </td>    
+<td align="center"><a href="https://github.com/whysogreen"><kbd><img src="https://avatars3.githubusercontent.com/whysogreen?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Amy Tan</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=whysogreen" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/Garimakanwaria"><kbd><img src="https://avatars3.githubusercontent.com/Garimakanwaria?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Garima</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=Garimakanwaria" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/hrishikeshps"><kbd><img src="https://avatars3.githubusercontent.com/hrishikeshps?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Hrishikesh Sharma</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=hrishikeshps" title="Code"> :computer: </a> </td>
+</tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Contributions of any kind welcome!
+
+>    NOTE: if you should be on the list of contributors but we forgot you, don't be shy and let us know!
