@@ -35,9 +35,6 @@ Steps for adding your name below
 
 <table>
  <tr><td align="center"><a href="https://github.com/stktyagi"><kbd><img src="https://avatars.githubusercontent.com/u/142912014?v=4" width="100px;" alt=""/></kbd><br /><sub><b>stktyagi</b></sub></a><br /><a href="https://github.com/chetanbhasney02/Hacktoberfest-2023/commits?author=stktyagi" title="Code"> :computer: </a> </td>
-        <td align="center"><a href="https://github.com/aman-ku"><kbd><img src="https://avatars3.githubusercontent.com/aman-ku?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Aman Kumar</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=aman-ku" title="Code"> :computer: </a> </td>
-        <td align="center"><a href="https://github.com/SubhanshuMG"><kbd><img src="https://avatars3.githubusercontent.com/SubhanshuMG?size=400" width="100px;" alt=""/></kbd><br /><sub><b>SubhanshuMG</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=SubhanshuMG" title="Code"> :computer: </a> </td>    
-        <td align="center"><a href="https://github.com/whysogreen"><kbd><img src="https://avatars3.githubusercontent.com/whysogreen?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Amy Tan</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=whysogreen" title="Code"> :computer: </a> </td>
 </tr>
 </table>
 
