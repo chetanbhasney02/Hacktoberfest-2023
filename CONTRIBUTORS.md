@@ -19,6 +19,7 @@ If you are new to contributing, check out our [CONTRIBUTING.md](CONTRIBUTING.md)
 ### [Sam Williams](https://github.com/samwilliams)
 
 
+### [Manav Rajpurohit](https://github.com/Manavr472)
 
 ## Hall of Fame
 
