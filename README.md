@@ -64,8 +64,7 @@ Steps for adding your name below
 
 <tr>
 
-<td align="center"><a href=""><kbd><img src="" width="100px;" alt=""/></kbd><br /><sub><b> </b></sub></a><br /> :computer:  </td>
-<td align="center"><a href=""><kbd><img src="" width="100px;" alt=""/></kbd><br /><sub><b> </b></sub></a><br /> :computer:  </td>
+
 
 </tr>
 
