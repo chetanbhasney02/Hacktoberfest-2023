@@ -34,7 +34,11 @@ Steps for adding your name below
 <!-- markdownlint-disable -->
 
 <table>
- <tr><td align="center"><a href="https://github.com/stktyagi"><kbd><img src="https://avatars.githubusercontent.com/u/142912014?v=4" width="100px;" alt=""/></kbd><br /><sub><b>stktyagi</b></sub></a><br /> :computer:  </td>
+<tr><td align="center"><a href="https://github.com/stktyagi"><kbd><img src="https://avatars.githubusercontent.com/u/142912014?v=4" width="100px;" alt=""/></kbd><br /><sub><b>stktyagi</b></sub></a><br /> :computer:  </td>
+
+<tr><td align="center"><a href="https://github.com/AmithBino"><kbd><img src="https://avatars.githubusercontent.com/u/64013252?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Amith Bino</b></sub></a><br /> :computer:  </td>
+
+
 </tr>
 </table>
 
