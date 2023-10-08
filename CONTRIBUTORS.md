@@ -46,7 +46,9 @@ Steps for adding your name below
 <td align="center"><a href="https://github.com/manojna191"><kbd><img src="https://avatars.githubusercontent.com/u/79504458?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Manojna Vinjamuri</b></sub></a><br /> :computer:  </td>
 </tr>
 
-
+<tr>
+ <td align="center"><a href="https://github.com/Ishika0-0"><kbd><img src="https://avatars.githubusercontent.com/u/109868197?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Ishika</b></sub></a><br /> :computer:  </td>   
+</tr>
 </table>
 
 <!-- markdownlint-enable -->
