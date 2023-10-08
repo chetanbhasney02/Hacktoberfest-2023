@@ -10,15 +10,11 @@ If you are new to contributing, check out our [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### [John Doe](https://github.com/johndoe)
 
-
-
 ### [Jane Smith](https://github.com/janesmith)
-
-
 
 ### [Sam Williams](https://github.com/samwilliams)
 
-
+### [Pamudu Prabathiya](https://github.com/pamudu)
 
 ## Hall of Fame
 
@@ -27,8 +23,6 @@ We'd like to recognize outstanding contributions with a special mention in our H
 ### [Alex Chen](https://github.com/alexchen)
 
 ### stktyagi (https://github.com/stktyagi)
-
-
 
 ## Code of Conduct
 
