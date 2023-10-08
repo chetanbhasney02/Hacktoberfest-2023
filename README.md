@@ -55,6 +55,7 @@ Steps for adding your name below
 
 <tr>
 <td align="center"><a href="https://github.com/Insomniac2904"><kbd><img src="https://avatars.githubusercontent.com/u/109868197?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Adarsh Kumar</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/Stormlite12"><kbd><img src="https://avatars.githubusercontent.com/u/68964321?s=400&v=4" width="100px;" alt=""/></kbd><br /><sub><b>Siddartha Datta</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/bishwobista"><kbd><img src="https://avatars.githubusercontent.com/u/91307873?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Bishwo Bikram Bista</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/riddhi-283"><kbd><img src="https://avatars.githubusercontent.com/u/124153277?v=4" width="100px;" alt=""/></kbd><br /><sub><b>riddhi-283</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/hrushi2003"><kbd><img src="https://avatars.githubusercontent.com/u/94824558?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Hrushikesh Vandanapu</b></sub></a><br /> :computer:  </td>
