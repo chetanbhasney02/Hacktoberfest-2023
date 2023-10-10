@@ -55,13 +55,17 @@ Steps for adding your name below
 
 <tr>
 <td align="center"><a href="https://github.com/Insomniac2904"><kbd><img src="https://avatars.githubusercontent.com/u/109868197?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Adarsh Kumar</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/Stormlite12"><kbd><img src="https://avatars.githubusercontent.com/u/68964321?s=400&v=4" width="100px;" alt=""/></kbd><br /><sub><b>Siddartha Datta</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/bishwobista"><kbd><img src="https://avatars.githubusercontent.com/u/91307873?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Bishwo Bikram Bista</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/riddhi-283"><kbd><img src="https://avatars.githubusercontent.com/u/124153277?v=4" width="100px;" alt=""/></kbd><br /><sub><b>riddhi-283</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/hrushi2003"><kbd><img src="https://avatars.githubusercontent.com/u/94824558?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Hrushikesh Vandanapu</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/DevTomilola-OS"><kbd><img src="https://avatars.githubusercontent.com/u/114832204?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Oluwatomilola</b></sub></a><br /> :computer:  </td>
-<td align="center"><a href="https://github.com/manojna191"><kbd><img src="https://avatars.githubusercontent.com/u/79504458?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Manojna Vinjamuri</b></sub></a><br /> :computer:  </td>
 </tr>
 
+<tr>
+<td align="center"><a href="https://github.com/tusharv01"><kbd><img src="https://avatars.githubusercontent.com/u/93588934?s=400&u=548285c9291584504f809c000d91e683c459892c&v=4" width="100px;" alt=""/></kbd><br /><sub><b>Manojna Vinjamuri</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/tusharv01"><kbd><img src="https://avatars.githubusercontent.com/u/96570918?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Ishika</b></sub></a><br /> :computer:  </td>
+</tr>
 
 </table>
 
