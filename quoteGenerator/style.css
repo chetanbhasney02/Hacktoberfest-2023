@@ -1,15 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 body {
-  background: #06BDC1;
-  background: -webkit-radial-gradient(center, #06BDC1, #68469F);
-  background: -moz-radial-gradient(center, #06BDC1, #68469F);
-  background: radial-gradient(ellipse at center, #06BDC1, #68469F);
+  background: #063661;
+  background: -webkit-radial-gradient(center, #06BDC1, #063661);
+  background: -moz-radial-gradient(center, #06BDC1, #063661);
+  background: radial-gradient(ellipse at center, #68469F, #063661);
 }
 
 .app {
   width: 1280px;
   margin: auto;
+}
+
+.glow {
+  margin: 40px auto;
+  font-size: 50px;
+  color: #ffffff;
+  text-shadow: 1px 1px 5px blue;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f554cf, 0 0 40px #f554cf, 0 0 50px #f554cf, 0 0 60px #f554cf, 0 0 70px #f554cf;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4dd8, 0 0 40px #ff4dd8, 0 0 50px #ff4dd8, 0 0 60px #ff4dd8, 0 0 70px #ff4dd8, 0 0 80px #ff4dd8;
+  }
 }
 
 .quotes-container {
@@ -31,19 +48,19 @@ body {
   padding: 0 25px;
   color: gray;
   border-radius: 10px;
-  background-color: #F4EDEA;
-  border: 10px solid #06BDC1;
+  background-color: rgb(75, 84, 111);
+  border: 10px solid rgb(22, 167, 225);
   box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.9);
 }
 
 .inner-quotes-container p {
   font-size: 1.5rem;
-  color: black;
+  color: white;
 }
 
 .inner-quotes-container h3 {
   font-size: 2rem;
-  color: black;
+  color: #ff4dd8;
   font-family: 'Dancing Script', cursive;
 }
 
