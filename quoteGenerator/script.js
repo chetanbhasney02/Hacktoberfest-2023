@@ -54,3 +54,14 @@ function generate(){
 window.onload = function(){
   generate()
 }
+
+function copyTheText() {
+  let quote = document.getElementById("quote").textContent;
+  // console.log(quote);
+  navigator.clipboard.writeText(quote);
+  let copy = document.querySelector("#copyText").textContent = "Text Copied";
+  setTimeout(() => {
+          document.querySelector("#copyText").textContent = "Copy Quote";
+  }, 1000);
+}
+document.getElementById("copyText").addEventListener("click", copyTheText);
