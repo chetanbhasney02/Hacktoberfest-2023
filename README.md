@@ -60,6 +60,7 @@ Steps for adding your name below
 <td align="center"><a href="https://github.com/riddhi-283"><kbd><img src="https://avatars.githubusercontent.com/u/124153277?v=4" width="100px;" alt=""/></kbd><br /><sub><b>riddhi-283</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/hrushi2003"><kbd><img src="https://avatars.githubusercontent.com/u/94824558?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Hrushikesh Vandanapu</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/DevTomilola-OS"><kbd><img src="https://avatars.githubusercontent.com/u/114832204?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Oluwatomilola</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/BairagiTarun"><kbd><img src="https://avatars.githubusercontent.com/u/112105779?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Tarun Bairagi</b></sub></a><br /> :computer:  </td>
 </tr>
 
 <tr>
